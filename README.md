@@ -1,6 +1,6 @@
 # Greetings ! 👋
 
-Hello ! I'm **Uğur Çakmak**, I'm working as a Software Development Leader at KoçSistem, Istanbul, Turkey. <br>
+Hello ! I'm **Uğur Çakmak**, and I'm working as a Solution Architect at Pluxee, Istanbul, Turkey. <br>
 
 
 ## 📌 GitHub Stats and Top Languages
@@ -12,7 +12,7 @@ Hello ! I'm **Uğur Çakmak**, I'm working as a Software Development Leader at K
 
 ## 📫 How to reach me
 
-You can find and get touch with me on these accounts 👀
+You can find and get in touch with me on these accounts 👀
 
 [![LinkedIn Badge](https://img.shields.io/badge/Ugur%20Cakmak-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ugurcakmak)
 
